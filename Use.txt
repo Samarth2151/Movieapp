@@ -1,0 +1,10 @@
+How to use
+
+1.Install flutter setup
+2.Give Command :flutter create login
+3.Add all this folder in your folder
+4.Google_service.json file must add in build>app>file
+5.Give Command Flutter run -d Device name(Mobile id)
+
+6.Email:abc@gmail.com
+7.Password:123456
